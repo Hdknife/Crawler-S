@@ -1,3 +1,8 @@
+
+<img src="https://github.com/user-attachments/assets/034ec549-96a1-4a27-bffa-c1898cc42da9" alt="Clawer-S Icon" width="100">
+
+
+
 # Clawer-S
 
 Welcome to the GitHub repository of **Clawer-Spider**! This software is designed for businesses and email marketing professionals. It works based on keywords, following a prompt-based structure, making it easy to use. Clawer-S includes five powerful tools that help extract contacts using keywords efficiently.
@@ -21,6 +26,8 @@ Welcome to the GitHub repository of **Clawer-Spider**! This software is designed
 
 6. **AI Analysis Tool**  
    The AI Analysis Tool is designed to analyze contact details. Currently, it only supports **Gemini AI**.
+
+# How to used
 
 
 
