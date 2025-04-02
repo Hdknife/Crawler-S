@@ -46,5 +46,9 @@ Clawer-S supports three types of databases: **SQL**, **MongoDB**, and standard *
 
 Make sure to add authentic credentials to access the database.
 
+#Video
+https://github.com/user-attachments/assets/6b922b69-272f-4edd-9cdd-d7d9a3d56acc
+
+
 ## Coming Soon
 Stay tuned for more updates and features!
