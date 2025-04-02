@@ -44,6 +44,9 @@ Clawer-S supports three types of databases: **SQL**, **MongoDB**, and standard *
 
 <img width="951" alt="ClawerS Database Example" src="https://github.com/user-attachments/assets/6e41e056-3b97-412b-9d89-2677cf965996" />
 
+#Requirment
+4gb ram
+400 MB free space required
 Make sure to add authentic credentials to access the database.
 
 # Video Tutorial  
